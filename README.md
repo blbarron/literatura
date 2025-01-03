@@ -35,9 +35,4 @@ Antes de comenzar, asegúrate de tener instalados:
 
 ---
 
-## Instalación
 
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/tuusuario/LiteraturaApp.git
-   cd LiteraturaApp
