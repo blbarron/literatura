@@ -6,11 +6,8 @@ Una aplicación RESTful basada en Spring Boot para consultar libros desde la API
 
 - [Características](#características)
 - [Requisitos Previos](#requisitos-previos)
-- [Instalación](#instalación)
 - [Uso](#uso)
-- [Endpoints](#endpoints)
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
-- [Contribuciones](#contribuciones)
 - [Licencia](#licencia)
 
 ---
@@ -35,4 +32,17 @@ Antes de comenzar, asegúrate de tener instalados:
 
 ---
 
+## Uso
+- Catálogo de Libros que ofrezca interacción textual (vía consola) con los usuarios, 
+proporcionando al menos 5 opciones de interacción.
+- Los libros se buscarán a través de una API específica. 
+- La información sobre la API y las opciones de interacción con el usuario se detalla.
 
+## Tecologías utilizadas
+- Intellij
+- PGadmin
+- Gutendex
+- GitHub
+
+## Licencia
+2024
